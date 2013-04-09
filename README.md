@@ -14,6 +14,7 @@ A licença usada no projeto é a Free Beer, em resumo se nos encontrarmos por ai
 cerveja e jogar conversa fora, ficaria muito grato :) 
 
 FREE BEER LICENSE VERSION 1.02
+
 [http://www.tryba.nl/manuals/license/beer.html](http://www.tryba.nl/manuals/license/beer.html)
 
 
