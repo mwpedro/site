@@ -1,6 +1,8 @@
 
-
 Jairo Jair
 =============
 
-Pagina pessoal contendo meus contatos.
+O [Site](http://jairojair.com) é praticamente uma landing page basica com os contatos.
+
+
+
