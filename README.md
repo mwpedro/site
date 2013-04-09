@@ -8,7 +8,9 @@ O [Site](http://jairojair.com) é praticamente uma landing page basica com os co
 License:
 ========
 
-  FREE BEER LICENSE VERSION 1.02
+FREE BEER LICENSE VERSION 1.02
+  
+[http://www.tryba.nl/manuals/license/beer.html](http://www.tryba.nl/manuals/license/beer.html)
 
 The free beer license is a license to give free software to you and free
 beer (in)to the author(s).
@@ -44,5 +46,3 @@ However :
    anything else than beer or means that provide facilities to get beer 
    into the author(s) (i.e. openers, glasses).
 
-
-[http://www.tryba.nl/manuals/license/beer.html](http://www.tryba.nl/manuals/license/beer.html)
