@@ -3,7 +3,7 @@ Jairo Jair
 
 O [Site](http://jairojair.com) é praticamente uma landing page basica com os contatos.
 
-TODO:
+TO DO:
 - Criar pagina de sobre
 - Melhorar responsividade das paginas para os diversos dispositivos de acesso. 
 
